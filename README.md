@@ -1,4 +1,4 @@
-# color_detection_xgboost
+# Color Detection XGBoost
 지금은 Deep Learning을 기반으로 하는 Object Detection 알고리즘이 많고 성능 역시 뛰어나지만 더 간단하게 M/L 방법을 이용하여 객체를 찾고 분류하는 것이 가능합니다. 물론 정확도 측면에서는 부족하지만 속도면에서는 월등히 앞서고 쉽게 응용하여 다양한 시도를 할 수 있습니다.
 
 <div align="center">
